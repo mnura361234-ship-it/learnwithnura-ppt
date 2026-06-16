@@ -1,2 +1,22 @@
-One
-Two
+[cover]
+Artificial Intelligence
+General
+
+[standard]
+What is the concept?
+Artificial Intelligence is an important concept in modern technology.
+
+[standard]
+Simple Explanation
+Artificial Intelligence is a simple idea that can be understood without needing advanced technical knowledge.
+
+[standard]
+Key Points / Breakdown
+Glossary terms: artificial intelligence
+Analogy categories: general
+
+[call_to_action]
+Conclusion
+Verification status: passed.
+Accuracy score: 1.00
+Simplicity score: 0.95

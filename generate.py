@@ -138,7 +138,10 @@ def main(args=None):
     prs.slide_width = SLIDE_WIDTH
     prs.slide_height = SLIDE_HEIGHT
 
-    build_cover_slide(prs, context)
+    # Check if first slide is already a cover; if so, skip the hardcoded cover
+    first_slide_is_cover = slides and slides[0].layout == "cover" if slides else False
+    if not first_slide_is_cover:
+        build_cover_slide(prs, context)
 
     total_slides = len(slides)
     for index, slide in enumerate(slides, start=1):
