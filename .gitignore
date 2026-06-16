@@ -1,0 +1,28 @@
+# python cache
+__pycache__/
+*.py[cod]
+
+# virtual environments
+.venv/
+venv/
+env/
+# vs code settings
+.vscode/
+
+# generated output
+output/
+*.pptx
+
+# python build files
+*.egg-info/
+build/
+dist/
+
+# python build files
+*.egg-info/
+build/
+dist/
+
+# operating system files
+.ds_store
+thumbs.db
