@@ -1,0 +1,26 @@
+[standard]
+Web3 Overview
+A short introduction to Web3, decentralized apps, and next-generation internet principles.
+
+[standard]
+User Empowerment
+Describe how users gain control over identity, data, and digital assets in Web3.
+
+[comparison]
+Web2 vs Web3
+Web2::Centralized platforms, data ownership by providers, friction in trust.
+Web3::Decentralized services, user ownership, native digital value.
+
+[timeline]
+Web3 Journey
+2020::Blockchain tools began enabling decentralized finance and NFTs.
+2022::DAO and NFT ecosystems grew attention and experimentation.
+2024::Web3 continues maturing with better UX and real-world use cases.
+
+[key_takeaway]
+Web3 Key Ideas
+Summarize the core Web3 principles learners should keep in mind.
+
+[call_to_action]
+Start Exploring
+Invite learners to explore a Web3 app, learn a blockchain wallet, or join a DAO discussion.

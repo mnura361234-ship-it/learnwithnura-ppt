@@ -1,0 +1,26 @@
+[standard]
+Crypto 101
+A quick primer on cryptocurrency fundamentals and why it is shaping digital finance.
+
+[standard]
+How Crypto Works
+Explain wallets, transactions, and the importance of secure private keys.
+
+[comparison]
+Bitcoin vs Altcoins
+Bitcoin::Store of value, network security, strong brand recognition.
+Altcoins::Experimentation, specific use cases, faster innovation.
+
+[timeline]
+Crypto Milestones
+2009::Bitcoin launched the first cryptocurrency network.
+2017::The market saw rapid mainstream interest and new token models.
+2024::Regulation and infrastructure continue to evolve.
+
+[key_takeaway]
+Crypto Essentials
+Summarize the key concepts that learners should remember from this deck.
+
+[call_to_action]
+Next Move
+Encourage learners to follow market trends, study wallets, or try a small experiment.

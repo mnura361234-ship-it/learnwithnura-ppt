@@ -1,0 +1,17 @@
+What is Artificial Intelligence?
+Artificial Intelligence (AI) is the ability of computers to perform tasks that normally require human intelligence.
+
+
+AI Timeline
+1956::The term "Artificial Intelligence" is created.
+1997::IBM Deep Blue defeats world chess champion Garry Kasparov.
+2012::Deep learning becomes mainstream after ImageNet breakthroughs.
+2025::AI assistants and autonomous agents become widely adopted.
+
+
+AI vs Traditional Software
+Traditional software follows fixed rules.|AI systems can learn patterns from data and improve over time.
+
+
+Key Takeaway
+AI is not replacing human intelligence—it is becoming a powerful tool that helps people work smarter.

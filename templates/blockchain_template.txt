@@ -1,0 +1,26 @@
+[standard]
+Blockchain Basics
+What blockchain is, how distributed ledgers work, and why decentralization matters.
+
+[standard]
+Core Components
+Describe blocks, consensus, and nodes in short, plain language for learners.
+
+[comparison]
+Public vs Private Blockchain
+Public::Open access, transparency, community governance.
+Private::Permissioned access, controlled participation, enterprise use.
+
+[timeline]
+Blockchain Evolution
+2008::Bitcoin whitepaper introduced the first decentralized ledger.
+2015::Smart contracts expanded blockchain beyond currency.
+2024::Enterprise and education use cases are growing rapidly.
+
+[key_takeaway]
+Blockchain Takeaways
+Highlight the essential concepts learners should retain from the carousel.
+
+[call_to_action]
+Explore Further
+Prompt learners to research a real-world blockchain application or join a community.

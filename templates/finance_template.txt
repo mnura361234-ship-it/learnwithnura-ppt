@@ -1,0 +1,26 @@
+[standard]
+Finance Fundamentals
+A concise overview of modern finance and why financial literacy matters.
+
+[standard]
+Key Financial Concepts
+Explain budgeting, saving, and investing with short, learner-friendly points.
+
+[comparison]
+Saving vs Investing
+Saving::Low risk, stable capital preservation, easy access.
+Investing::Growth potential, higher risk, long-term planning.
+
+[timeline]
+Finance Roadmap
+2020::Personal finance tools became more widely available and digital.
+2023::New fintech platforms simplified investing for individual users.
+2025::AI-powered financial advice will continue shaping everyday decisions.
+
+[key_takeaway]
+Finance Takeaways
+Summarize the essential ideas learners should retain from this carousel.
+
+[call_to_action]
+Take Action
+Encourage learners to build a simple budget, explore a savings plan, or learn more about investing.

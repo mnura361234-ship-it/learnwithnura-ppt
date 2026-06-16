@@ -1,0 +1,26 @@
+[standard]
+{{TOPIC}} Fundamentals
+A crisp introduction to {{TOPIC}}, what it is, and why it matters today.
+
+[standard]
+How {{TOPIC}} Works
+Explain model behavior, data inputs, and the role of machine learning in a clear, simple way.
+
+[comparison]
+AI vs Traditional Tools
+AI::Adaptive automation, pattern recognition, scale.
+Traditional::Manual rules, fixed logic, limited context.
+
+[timeline]
+{{TOPIC}} Progress
+2017::Transformer architectures brought a leap in natural language capability.
+2020::Large language models began powering assistants and creative tools.
+2024::Practical AI is used across education, marketing, and product design.
+
+[key_takeaway]
+AI Essentials
+Summarize the most useful ideas for learners building practical AI knowledge.
+
+[call_to_action]
+Next Step
+{{CTA}}

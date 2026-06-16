@@ -1,0 +1,26 @@
+[standard]
+{{TOPIC}} Overview
+A concise introduction to {{TOPIC}} with key context and what learners will discover.
+
+[standard]
+Why {{TOPIC}} Matters
+Short explanation of {{TOPIC}}, why it matters, and the main learning objective.
+
+[comparison]
+Strengths vs Challenges
+Advantage::The main benefit of using this approach.
+Challenge::The primary drawback or caution.
+
+[timeline]
+Timeline Overview
+{{YEAR}}::Key trend or milestone for {{TOPIC}}.
+{{YEAR}}::Expected development or important update.
+{{YEAR}}::Practical adoption or outcome.
+
+[key_takeaway]
+Key Takeaways
+A short list of the most important ideas to remember from this carousel.
+
+[call_to_action]
+Next Steps
+{{CTA}}

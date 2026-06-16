@@ -1,0 +1,17 @@
+{
+    "Artificial Intelligence": {
+        "theme": "ai",
+        "default_template": "ai_template",
+        "image": "ai.png"
+    },
+    "Blockchain": {
+        "theme": "blockchain",
+        "default_template": "blockchain_template",
+        "image": "blockchain.png"
+    },
+    "Cryptocurrency": {
+        "theme": "crypto",
+        "default_template": "crypto_template",
+        "image": "crypto.png"
+    }
+}
